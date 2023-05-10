@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10862222-c8dd-4c02-8cc8-2fffe8922ce9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Toys/Boat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Toys/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Toys/Doll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Toys/Plain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Toys/Toy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Toys/ToysFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Toys/ToysType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Toys/Train.java" afterDir="false" />
-    </list>
+    <list default="true" id="10862222-c8dd-4c02-8cc8-2fffe8922ce9" name="Changes" comment="Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,14 +32,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Toys" />
@@ -90,8 +74,16 @@
       <updated>1683552420820</updated>
       <workItem from="1683552423332" duration="357000" />
       <workItem from="1683724997045" duration="9347000" />
-      <workItem from="1683738445557" duration="3959000" />
+      <workItem from="1683738445557" duration="4264000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1683742704440</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683742704440</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,5 +99,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
